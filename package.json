@@ -1,0 +1,35 @@
+{
+  "name": "MoonCES",
+  "version": "0.0.4",
+  "description": "Component-Entity-System framework for TypeScript games",
+  "homepage": "https://github.com/telpalbrox/MoonCES",
+  "keywords": [
+    "component",
+    "entity",
+    "game"
+  ],
+  "author": "Xueqiao Xu <xueqiaoxu@gmail.com>",
+  "maintainers": [
+    "Alberto Luna <alberto.luna.95@gmail.com> (http://twitter.com/alberto1795/)"
+  ],
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "expect": "^1.10.0",
+    "mocha": "1.8.1",
+    "sinon": "1.10.2",
+    "typescript": "^1.6.2",
+    "uglify-js": "2.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/telpalbrox/MoonCES.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.php"
+    }
+  ]
+}

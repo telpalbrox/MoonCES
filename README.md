@@ -44,7 +44,7 @@ and use [UglifyJS](https://github.com/mishoo/UglifyJS) to compress):
     make
 
 To run the tests with
-[mocha](http://visionmedia.github.com/mocha/) and [chai](https://github.com/chaijs/chai) 
+[mocha](http://mochajs.org/) and [chai](https://github.com/chaijs/chai) 
 
     make test
 
